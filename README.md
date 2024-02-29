@@ -27,11 +27,7 @@ pip install pandas
 pip install matplotlib.pyplot
 ```
 ### Dataset
-* Pairwise preference data: The dataset for the MFP method was acquired from an online experiment performed by [Blèdaitè et al.](https://dl.acm.org/doi/pdf/10.1145/2700171.2791049?casa_token=hjYzq9yecUsAAAAA:oR_T8e6uKVasBZ77VpqAGnzFi0jRk__jeiz9DkGq3ZTQa3TSIjiii_zfJBSidmQ5LM4PDhHqMw_i) to collect users’
-pairwise preferences. The authors developed an online interface that allows users to compare different movie pairs and enter
-their pairwise scores. In this experiment, a total of 2,262 pairwise scores related to 100 movies from the MovieLens dataset
-were collected based on feedback from 46 users. In addition, 73,078 movie ratings from 1,128 users in the [MovieLens 100 K](https://grouplens.org/datasets/movielens/100k/)
-dataset were used. These movie ratings were converted into pairwise scores. 
+* Food dataset: The paper utilizes a food dataset from an online experiment, Consens@OsloMet, conducted at Oslo Metropolitan University (Norway), focusing on group decision making regarding food preferences. Participants were organized into groups of five and tasked with updating or maintaining their food choices based on the group's average opinion. The experiment, registered and approved by the Norwegian Centre for Research Data, involved an online interface where experts provided pairwise scores for different food pairs. The front-end interface displayed a probability score indicating their preferences. The collected data, representing preferences in matrices, enabled the study of consensus-building within groups. The paper's methodology and experimental design are detailed in the source, aiming to predict missing pairwise preferences in group decision making.
 
 ----------------------------------------------------------------------
 
