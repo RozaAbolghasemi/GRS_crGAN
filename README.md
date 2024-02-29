@@ -11,7 +11,7 @@ In this repository, we have modified the code and added additional functions to 
 ## Dependencies
 The codebase is implemented in Python 3.10.9. package versions used for development are just below.
 ```
-tensorflow             1.14.0
+tensorflow        1.14.0
 keras             2.3.0
 numpy             1.23.4
 pandas            1.5.3
