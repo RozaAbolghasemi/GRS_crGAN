@@ -1,6 +1,6 @@
 
 # Adversarial Preference Learning with Pairwise Comparisons for Group Recommendation System
-This is a Keras implementation of a group recommendation system, which is designed for comparison with the model introduced in the paper:
+This is a Keras implementation of a group recommendation system using GAN, which is designed for comparison with the model introduced in the paper:
 >R. Abolghasemi, E. Herrera Viedma, P. Engelstad, Y.Djenouri, A. Yazidi. A  Graph Neural Approach for Group Recommendation System Based on Pairwise Preferences. Information Fusion 2024
 
 The model for the "Recommendation System" is described in the following paper, and the codes are available [Here](https://github.com/wang22ti/Adversarial-Preference-Learning-with-Pairwise-Comparisons)
